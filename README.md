@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weaponlions&label=Profile%20views&color=0e75b6&style=flat" alt="weaponlions" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weaponlions" alt="weaponlions" /></a> </p>
 
 - 🔭 I’m currently working on [Governtment_Quiz_App](https://github.com/weaponlions/quiz-backend)
 
